@@ -1,4 +1,3 @@
-C:\Users\16979\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/16979/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/221.5787.29/bin/ninja/win/ninja.exe -G Ninja -S "C:\Users\16979\Desktop\C++ Problems\Lab6" -B "C:\Users\16979\Desktop\C++ Problems\Lab6\cmake-build-debug"
--- Configuring done
--- Generating done
--- Build files have been written to: C:/Users/16979/Desktop/C++ Problems/Lab6/cmake-build-debug
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb22c4d933a0d4235f4f3967b6e0e81f793ef9c1cf23659f15e1b84c84884f37
+size 502

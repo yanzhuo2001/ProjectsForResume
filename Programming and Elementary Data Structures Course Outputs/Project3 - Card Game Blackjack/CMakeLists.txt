@@ -1,6 +1,3 @@
-cmake_minimum_required(VERSION 3.22)
-project(Project3)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(Project3 blackjack.cpp deck.cpp deck.h card.cpp card.h hand.cpp hand.h player.cpp player.h rand.cpp rand.h)
+version https://git-lfs.github.com/spec/v1
+oid sha256:c437910731f50940e7b8371e3e18b956efdd5ef7e51d9067dbeab9918b1e35e3
+size 207

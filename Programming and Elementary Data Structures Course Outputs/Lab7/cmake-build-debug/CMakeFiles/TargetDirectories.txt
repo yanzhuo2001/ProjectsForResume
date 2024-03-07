@@ -1,3 +1,3 @@
-C:/Users/16979/Desktop/C++ Problems/Lab7/cmake-build-debug/CMakeFiles/Lab7.dir
-C:/Users/16979/Desktop/C++ Problems/Lab7/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/16979/Desktop/C++ Problems/Lab7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c673548e971bd15de925092f0e96c45aa9dcaad305d229cefb2113e15137938
+size 255

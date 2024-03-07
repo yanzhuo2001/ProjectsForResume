@@ -1,6 +1,3 @@
-cmake_minimum_required(VERSION 3.22)
-project(Lab7)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(Lab7 main.cpp course.cpp course.h)
+version https://git-lfs.github.com/spec/v1
+oid sha256:1612b000229a656d38ab8b217eee85becd1a5d5f6737e5a6fe071dfb849e885d
+size 130

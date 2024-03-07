@@ -1,6 +1,3 @@
-cmake_minimum_required(VERSION 3.22)
-project(Lab9)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(Lab9 main.cpp  mylist.h  mylist_impl.h)
+version https://git-lfs.github.com/spec/v1
+oid sha256:a64e5a5ddeb9c289a40908941fcb29faa169c5c6266757fdc2e6efed4b11687c
+size 135

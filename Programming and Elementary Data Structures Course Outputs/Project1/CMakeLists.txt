@@ -1,6 +1,3 @@
-cmake_minimum_required(VERSION 3.20)
-project(Project1)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(Project1 main.cpp)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c865ade3fbcae38e67a66c209ce3a76fe3e9aeabb7ee84f1dfba78209d118c0
+size 118

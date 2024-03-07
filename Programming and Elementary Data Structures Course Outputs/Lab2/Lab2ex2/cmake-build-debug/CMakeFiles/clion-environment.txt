@@ -1,4 +1,3 @@
-ToolSet: w64 6.0 (local)@C:\mingw64
-Options: 
-
-Options:
+version https://git-lfs.github.com/spec/v1
+oid sha256:f722d642c6e94cbea158c534478abf1069a2a3fa05eb1bf297c72681832418c4
+size 55

@@ -1,6 +1,3 @@
-cmake_minimum_required(VERSION 3.20)
-project(Lab2ex1)
-
-set(CMAKE_CXX_STANDARD 14)
-
-add_executable(Lab2ex1 main.cpp)
+version https://git-lfs.github.com/spec/v1
+oid sha256:982e1ad0b0c2da3c21394c757c5ccf7daac9d9877d565578d3482e6da8cea982
+size 116

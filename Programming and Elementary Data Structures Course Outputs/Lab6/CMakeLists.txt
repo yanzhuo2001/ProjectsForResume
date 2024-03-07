@@ -1,18 +1,3 @@
-cmake_minimum_required(VERSION 3.22)
-project(Lab6)
-
-set(CMAKE_CXX_STANDARD 14)
-
-include_directories(.)
-include_directories(plugins)
-
-add_executable(Lab6
-        plugins/cat/cat.cpp
-        plugins/simple/simple.cpp
-        plugins/cat.so
-        plugins/simple.so
-        main.cpp
-        plugin.h
-        pluginManager.cpp
-        pluginManager.h
-        prompt.h plugins/add/add.cpp plugins/styled/styled.cpp)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3555fa573dd9e3fe8eb689105412ebc0ee2afcacf6dc9a2118403b225e2410a5
+size 412
