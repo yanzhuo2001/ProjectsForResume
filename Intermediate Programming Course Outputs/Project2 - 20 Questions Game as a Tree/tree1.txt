@@ -1,0 +1,46 @@
+Internal node
+Is it bigger than a breadbox?
+Internal node
+Is it a vehicle?
+Internal node
+Does it consume gas?
+Leaf
+car
+Internal node
+Does it have wheels?
+Leaf
+bicycle
+Leaf
+skateboard
+Internal node
+Does it eat meat?
+Internal node
+Have it died out?
+Leaf
+dinosaur
+Leaf
+lion
+Leaf
+an elephant
+Internal node
+Is it oval?
+Leaf
+a mouse
+Internal node
+Does it consume electric power?
+Leaf
+charger
+Internal node
+Can we eat it?
+Internal node
+Is it a type of vegetable?
+Leaf
+carrots
+Leaf
+carrot
+Internal node
+Is it a type of fruit?
+Leaf
+apple
+Leaf
+pen

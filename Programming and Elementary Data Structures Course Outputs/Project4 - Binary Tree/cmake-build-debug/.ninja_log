@@ -1,0 +1,5 @@
+# ninja log v5
+16	728	6794839743141254	CMakeFiles/Project4.dir/decompress.cpp.obj	1c09416d15755385
+6	745	6794839743301299	CMakeFiles/Project4.dir/huffmanTree.cpp.obj	5dba1e721a109af6
+1	747	6794839743321252	CMakeFiles/Project4.dir/binaryTree.cpp.obj	4ed9b0a084b6e47f
+11	886	6794839744711250	CMakeFiles/Project4.dir/compress.cpp.obj	33f67d233baa14a6

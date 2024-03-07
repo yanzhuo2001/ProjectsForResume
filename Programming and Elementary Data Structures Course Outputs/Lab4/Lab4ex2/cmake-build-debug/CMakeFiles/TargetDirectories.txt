@@ -1,0 +1,3 @@
+C:/Users/16979/Desktop/C++ Problems/Lab4/Lab4ex2/cmake-build-debug/CMakeFiles/Lab4ex2.dir
+C:/Users/16979/Desktop/C++ Problems/Lab4/Lab4ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/16979/Desktop/C++ Problems/Lab4/Lab4ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

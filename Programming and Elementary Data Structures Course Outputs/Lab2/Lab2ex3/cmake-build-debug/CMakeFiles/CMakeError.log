@@ -1,0 +1,69 @@
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/16979/Desktop/C++ Problems/Lab2/Lab2ex3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_5cc6e/fast && C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_5cc6e.dir\build.make CMakeFiles/cmTC_5cc6e.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/16979/Desktop/C++ Problems/Lab2/Lab2ex3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5cc6e.dir/CMakeCCompilerABI.c.obj
+C:\mingw64\bin\gcc.exe   -v -o CMakeFiles\cmTC_5cc6e.dir\CMakeCCompilerABI.c.obj -c C:\Users\16979\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\share\cmake-3.22\Modules\CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=C:\mingw64\bin\gcc.exe
+Target: x86_64-w64-mingw32
+Configured with: ../../../src/gcc-8.1.0/configure --host=x86_64-w64-mingw32 --build=x86_64-w64-mingw32 --target=x86_64-w64-mingw32 --prefix=/mingw64 --with-sysroot=/c/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64 --enable-shared --enable-static --disable-multilib --enable-languages=c,c++,fortran,lto --enable-libstdcxx-time=yes --enable-threads=posix --enable-libgomp --enable-libatomic --enable-lto --enable-graphite --enable-checking=release --enable-fully-dynamic-string --enable-version-specific-runtime-libs --disable-libstdcxx-pch --disable-libstdcxx-debug --enable-bootstrap --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-gnu-as --with-gnu-ld --with-arch=nocona --with-tune=core2 --with-libiconv --with-system-zlib --with-gmp=/c/mingw810/prerequisites/x86_64-w64-mingw32-static --with-mpfr=/c/mingw810/prerequisites/x86_64-w64-mingw32-static --with-mpc=/c/mingw810/prerequisites/x86_64-w64-mingw32-static --with-isl=/c/mingw810/prerequisites/x86_64-w64-mingw32-static --with-pkgversion='x86_64-posix-seh-rev0, Built by MinGW-W64 project' --with-bugurl=https://sourceforge.net/projects/mingw-w64 CFLAGS='-O2 -pipe -fno-ident -I/c/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64/opt/include -I/c/mingw810/prerequisites/x86_64-zlib-static/include -I/c/mingw810/prerequisites/x86_64-w64-mingw32-static/include' CXXFLAGS='-O2 -pipe -fno-ident -I/c/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64/opt/include -I/c/mingw810/prerequisites/x86_64-zlib-static/include -I/c/mingw810/prerequisites/x86_64-w64-mingw32-static/include' CPPFLAGS=' -I/c/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64/opt/include -I/c/mingw810/prerequisites/x86_64-zlib-static/include -I/c/mingw810/prerequisites/x86_64-w64-mingw32-static/include' LDFLAGS='-pipe -fno-ident -L/c/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64/opt/lib -L/c/mingw810/prerequisites/x86_64-zlib-static/lib -L/c/mingw810/prerequisites/x86_64-w64-mingw32-static/lib '
+Thread model: posix
+gcc version 8.1.0 (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_5cc6e.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
+ C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/cc1.exe -quiet -v -iprefix C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/ -D_REENTRANT C:\Users\16979\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\share\cmake-3.22\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=core2 -march=nocona -auxbase-strip CMakeFiles\cmTC_5cc6e.dir\CMakeCCompilerABI.c.obj -version -o C:\Users\16979\AppData\Local\Temp\ccFPYu9k.s
+GNU C17 (x86_64-posix-seh-rev0, Built by MinGW-W64 project) version 8.1.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 8.1.0, GMP version 6.1.2, MPFR version 4.0.1, MPC version 1.1.0, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "C:/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/8.1.0/include"
+ignoring nonexistent directory "C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../include"
+ignoring duplicate directory "C:/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"
+ignoring duplicate directory "C:/mingw64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"
+ignoring nonexistent directory "C:/mingw810/x86_64-810-posix-seh-rt_v6-rev0/mingw64/mingw/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include
+ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed
+ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include
+End of search list.
+GNU C17 (x86_64-posix-seh-rev0, Built by MinGW-W64 project) version 8.1.0 (x86_64-w64-mingw32)
+	compiled by GNU C version 8.1.0, GMP version 6.1.2, MPFR version 4.0.1, MPC version 1.1.0, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 985ce7ae6dd3a696cd146ca9896b0035
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_5cc6e.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
+ C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\cmTC_5cc6e.dir\CMakeCCompilerABI.c.obj C:\Users\16979\AppData\Local\Temp\ccFPYu9k.s
+GNU assembler version 2.30 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.30
+COMPILER_PATH=C:/mingw64/bin/../libexec/gcc/x86_64-w64-mingw32/8.1.0/;C:/mingw64/bin/../libexec/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/bin/
+LIBRARY_PATH=C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/;C:/mingw64/bin/../lib/gcc/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/lib/;C:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\cmTC_5cc6e.dir\CMakeCCompilerABI.c.obj' '-c' '-mtune=core2' '-march=nocona'
+Linking C executable cmTC_5cc6e.exe
+C:\Users\16979\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_5cc6e.dir\link.txt --verbose=1
+C:\Users\16979\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\cmTC_5cc6e.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\cmTC_5cc6e.dir/objects.a @CMakeFiles\cmTC_5cc6e.dir\objects1.rsp
+Error running link command: 绯荤粺鎵句笉鍒版寚瀹氱殑鏂囦欢銆?mingw32-make.exe[1]: *** [CMakeFiles\cmTC_5cc6e.dir\build.make:99: cmTC_5cc6e.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/Users/16979/Desktop/C++ Problems/Lab2/Lab2ex3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_5cc6e/fast] Error 2
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/16979/Desktop/C++ Problems/Lab2/Lab2ex3/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/mingw64/bin/mingw32-make.exe -f Makefile cmTC_5e50e/fast && C:/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_5e50e.dir\build.make CMakeFiles/cmTC_5e50e.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/16979/Desktop/C++ Problems/Lab2/Lab2ex3/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5e50e.dir/testCCompiler.c.obj
+C:\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_5e50e.dir\testCCompiler.c.obj -c "C:\Users\16979\Desktop\C++ Problems\Lab2\Lab2ex3\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_5e50e.exe
+C:\Users\16979\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\bin\cmake.exe -E cmake_link_script CMakeFiles\cmTC_5e50e.dir\link.txt --verbose=1
+C:\Users\16979\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\cmTC_5e50e.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\cmTC_5e50e.dir/objects.a @CMakeFiles\cmTC_5e50e.dir\objects1.rsp
+Error running link command: 绯荤粺鎵句笉鍒版寚瀹氱殑鏂囦欢銆?mingw32-make.exe[1]: *** [CMakeFiles\cmTC_5e50e.dir\build.make:100: cmTC_5e50e.exe] Error 2
+mingw32-make.exe[1]: Leaving directory 'C:/Users/16979/Desktop/C++ Problems/Lab2/Lab2ex3/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:126: cmTC_5e50e/fast] Error 2
+
+
+
