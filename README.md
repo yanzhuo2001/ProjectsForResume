@@ -1,2 +1,2 @@
 # ProjectsForResume
-Summerize my excellent projects done so far to show them on resume.
+Summarize my excellent projects done so far to show them on resume.
